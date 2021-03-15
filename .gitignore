@@ -1,0 +1,7 @@
+/.idea
+/target
+/logs/*.zip
+/logFile.2022-01-29.zip
+/out/*.jar
+/out/*.zip
+/out/*.log
